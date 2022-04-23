@@ -27,12 +27,12 @@ Competition between companies is getting more intense by the day. Corporations n
 
 
 *Figure 2. MOSS first stage; data table generation and data entry*
-![Solutions](screenshots/figure 2.jpg)
+![Solutions](screenshots/figure2.jpg)
 
 *Figure 5. MOSS second stage; solution and post Pareto analysis*
-![Solutions](screenshots/figure 5.jpg)
+![Solutions](screenshots/figure5.jpg)
 
 *Solutions*
-![Solutions](screenshots/figure M solutions.png)
+![Solutions](screenshots/figurem.png)
 
 
